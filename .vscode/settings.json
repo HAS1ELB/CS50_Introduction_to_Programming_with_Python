@@ -1,0 +1,4 @@
+{
+    "gitdoc.enabled": true,
+    "remote.autoForwardPortsFallback": 0
+}
